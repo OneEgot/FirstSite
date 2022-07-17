@@ -1,0 +1,105 @@
+body,html{
+    margin: 0;
+    padding: 0;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: Nunito;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+::-webkit-scrollbar{
+    width: 0.4166em;
+}
+::-webkit-scrollbar-track{
+    background-color: #F3F4FF;
+    border-radius: 0.222em;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #4E60FF;
+    border-radius: 0.222em;
+    border: 0.093em solid #F3F4FF;
+}
+@media screen and (max-width: 1993px){
+	body,html{
+		font-size: 24px;
+	}
+}
+@media screen and (max-width:1744px){
+	body,html{
+		font-size:23px;
+	}
+}
+@media screen and (max-width: 1631px){
+	body,html{
+		font-size: 21px;
+	}
+}
+@media screen and (max-width:1512px){
+	body,html{
+		font-size: 19px;
+	}
+}
+@media screen and (max-width:1303px){
+	body, html{
+		font-size: 17px;
+	}
+}
+@media screen and (max-width: 1160px){
+	body, html{
+		font-size:15px;
+	}
+}
+@media screen and (max-width:1023px){
+	body, html{
+		font-size: 14px;
+	}
+}
+@media screen and (max-width:912px){
+	body,html{
+		font-size: 28px;
+	}
+}
+@media screen and (max-width:800px){
+	body,html{
+		font-size:26px;
+	}
+}
+@media screen and (max-width:700px){
+	body,html{
+		font-size:24px;
+	}
+}
+@media screen and (max-width:600px){
+	body,html{
+		font-size:22px;
+	}
+}
+@media screen and (max-width:540px){
+	body,html{
+		font-size:20px;
+	}
+}
+@media screen and (max-width: 500px){
+	body,html{
+		font-size:20px;
+	}
+}
+@media screen and (max-width:450px){
+	body,html{
+		font-size:19px;
+	}
+}
+@media screen and (max-width:400px){
+	body,html{
+		font-size:17px;
+	}
+}
+@media screen and (max-width:300px){
+	body,html{
+		font-size:15px;
+	}
+}
